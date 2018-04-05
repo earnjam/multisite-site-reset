@@ -1,0 +1,30 @@
+p.danger {
+  background: #f7c5c5;
+  border: 1px solid #c73535;
+  padding: 5px;
+}
+
+#select-all {
+  float: right;
+  margin-top: 6px;
+}
+
+#security-code {
+  font-weight: bold;
+  display: inline-block;
+  margin-left: 3px;
+}
+
+#loader {
+  margin-left: 10px;
+  position: absolute;
+  width: 28px;
+}
+
+#donate-button {
+  bottom: 15px;
+  position: absolute;
+  right: 15px;
+  width: 170px;
+  outline: 0;
+}
